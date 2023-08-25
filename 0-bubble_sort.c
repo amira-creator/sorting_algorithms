@@ -46,4 +46,4 @@ void swap(int *first, int *second)
 	tmp_elem = *first;
 	*first = *second;
 	*second = tmp_elem;
-
+}
